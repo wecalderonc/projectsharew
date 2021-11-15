@@ -1,2 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+def minhafuncao(str):
+	print('Minha profissão é:', str)
+	return
+
+print
+minhafuncao('Desenvolvedor Python - Copy Pasterrrr')
